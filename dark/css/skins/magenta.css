@@ -1,0 +1,55 @@
+/* =================================================================== */
+/* MAGENTA #ee6192
+====================================================================== */
+
+.home h1,
+.about .box-stats h3,
+.title-section h1 span,
+#menu li.active a,
+body.light #menu li.active a,
+.blog .post-container:hover .post-content .entry-header h3 a,
+.blog .post-content .entry-header h3 a:hover,
+.contact .custom-span-contact i,
+.portfolio .slideshow figcaption h3,
+.portfolio .slideshow a,
+.portfolio .grid figure:hover figcaption,
+.blog-post .meta i{
+	color: #ee6192;
+}
+.about .resume-box .icon,
+.contact ul.social li a:hover,
+body.light.contact ul.social li a:hover,
+.preloader .loader,
+.blog .page-link:hover,
+.blog .page-item.active .page-link,
+body.light.blog .page-link:hover,
+body.light.blog .page-item.active .page-link,
+.portfolio .grid li figure div,
+.header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover,
+body.light .header ul.icon-menu li.icon-box.active, body.light  .header ul.icon-menu li.icon-box:hover,
+.btn,
+.header .icon-box h2,
+.home .color-block,
+.title-section hr,
+.portfolio .slideshow .carousel-indicators li.active {
+	background-color: #ee6192;
+}
+.contact .contactform input[type=text]:focus,
+.contact .contactform input[type=email]:focus,
+.contact .contactform textarea:focus,
+body.light.contact .contactform input[type=text]:focus,
+body.light.contact .contactform input[type=email]:focus,
+body.light.contact .contactform textarea:focus,
+.blog .page-item.active .page-link,
+.blog .page-link:hover,
+body.light.blog .page-item.active .page-link,
+body.light.blog .page-link:hover{
+	border: 1px solid #ee6192;
+}
+.blog .post-thumb {
+	border-bottom: 5px solid #ee6192;
+}
+.pie, .c100 .bar, .c100.p51 .fill, .c100.p52 .fill, .c100.p53 .fill, .c100.p54 .fill, .c100.p55 .fill, .c100.p56 .fill, .c100.p57 .fill, .c100.p58 .fill, .c100.p59 .fill, .c100.p60 .fill, .c100.p61 .fill, .c100.p62 .fill, .c100.p63 .fill, .c100.p64 .fill, .c100.p65 .fill, .c100.p66 .fill, .c100.p67 .fill, .c100.p68 .fill, .c100.p69 .fill, .c100.p70 .fill, .c100.p71 .fill, .c100.p72 .fill, .c100.p73 .fill, .c100.p74 .fill, .c100.p75 .fill, .c100.p76 .fill, .c100.p77 .fill, .c100.p78 .fill, .c100.p79 .fill, .c100.p80 .fill, .c100.p81 .fill, .c100.p82 .fill, .c100.p83 .fill, .c100.p84 .fill, .c100.p85 .fill, .c100.p86 .fill, .c100.p87 .fill, .c100.p88 .fill, .c100.p89 .fill, .c100.p90 .fill, .c100.p91 .fill, .c100.p92 .fill, .c100.p93 .fill, .c100.p94 .fill, .c100.p95 .fill, .c100.p96 .fill, .c100.p97 .fill, .c100.p98 .fill, .c100.p99 .fill, .c100.p100 .fill {
+	border: 0.08em solid #ee6192;
+}
+
